@@ -10,4 +10,6 @@
 > 4. Include all features which current music providers provide
 > 5. Build an ecosystem of *openmusic*
 
+We are maintaining `hardhat` and `truffle` development environments in separate branches.
+
 Ready for the exciting times? Come, Let's build it❤️!
