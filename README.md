@@ -10,4 +10,6 @@
 > 4. Include all features which current music providers provide
 > 5. Build an ecosystem of *openmusic*
 
+This is the `hardhat` development environment for demusico!
+
 Ready for the exciting times? Come, Let's build it❤️!
